@@ -1,0 +1,9 @@
+name: Sword Art Online
+main: io.github.densyakun.bukkit.sao.Main
+version: alpha0.003
+authors: [AkihikoKayaba, Densyakun]
+website: http://densyakun.github.io/
+commands:
+   sao:
+   menu:
+   nick:
